@@ -64,3 +64,22 @@ main{
     margin-bottom: 3rem;
     text-align: center;
 }
+
+.lista{
+    width: 100%;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    padding-top: 5rem;
+}
+
+.criptografias{
+    color: white;
+    font-family: "Megrim";
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+.seta{
+    height: 2.5rem;
+}
